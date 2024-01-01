@@ -1,2 +1,2 @@
 # Java
-Java Programming and DSA
+Java Programming
